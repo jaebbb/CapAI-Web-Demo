@@ -1,0 +1,13 @@
+# cache
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
+.lh/
+.history/
+
+# data
+data/
+
+# model
+*.pt
+*.pth
